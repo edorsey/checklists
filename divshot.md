@@ -13,7 +13,7 @@
 
 # Checklist
 
-- [ ] `npm install -g divshot-cli`
+- [x] `npm install -g divshot-cli`
 - [ ] `divshot login`
 - [ ] create `divshot.json with above config-ish`
 - [ ] `divshot init`
